@@ -14,8 +14,15 @@ const destinos = [
 
     {
         nombre: "Conaprole",
-        lat: -34.858117,
-        lng: -56.283586
+        lat: -34.858022,
+        lng: -56.284150
+    },
+
+
+   {
+        nombre: "Dairyco",
+        lat: -34.860585,
+        lng: -56.283578
     },
 
 
