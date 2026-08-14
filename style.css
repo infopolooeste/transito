@@ -990,7 +990,7 @@ body {
 
 
     /* ================================================
-       ENCABEZADO COMPACTO
+       ENCABEZADO
     ================================================ */
 
     .header {
@@ -1007,21 +1007,8 @@ body {
         text-align:
             center;
 
-
-        /*
-            ENCABEZADO:
-            150 PX
-        */
-
         min-height:
             150px;
-
-
-        /*
-            Poco espacio vertical
-            para aprovechar mejor
-            la pantalla.
-        */
 
         padding:
             4px 12px 6px;
@@ -1031,11 +1018,6 @@ body {
 
     /* ================================================
        LOGO
-       
-       Antes: 175px
-       Ahora: 210px
-       
-       Aproximadamente 20% más grande.
     ================================================ */
 
     .logo {
@@ -1051,9 +1033,6 @@ body {
 
     /* ================================================
        TÍTULO
-       
-       Se mantiene el mismo tamaño
-       que en la versión anterior.
     ================================================ */
 
     .header-title {
@@ -1065,10 +1044,6 @@ body {
 
 
     .header-title h1 {
-
-        /*
-            SE MANTIENE EN 27 PX
-        */
 
         font-size:
             27px;
@@ -1122,6 +1097,9 @@ body {
 
     /* ================================================
        BOTONES
+       
+       ÚNICO CAMBIO DE ESTA VERSIÓN:
+       15px → 17px
     ================================================ */
 
     .destino-button {
@@ -1133,7 +1111,7 @@ body {
             12px 8px;
 
         font-size:
-            15px;
+            17px;
 
         line-height:
             1.2;
