@@ -27,7 +27,7 @@ const destinos = [
 
 
     {
-        nombre: "Integra",
+        nombre: "Operador logístico Polo Oeste",
         lat: -34.857873,
         lng: -56.286887
     },
