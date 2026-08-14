@@ -105,8 +105,8 @@ const destinos = [
 
     {
         nombre: "Vehículos",
-        lat: -34.854231,
-        lng: -56.287658
+        lat: -34.854498,
+        lng: -56.286078
     },
 
 
