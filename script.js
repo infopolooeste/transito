@@ -39,7 +39,14 @@ const destinos = [
 
 
     {
-        nombre: "Sodimac Vasa",
+        nombre: "Sodimac",
+        lat: -34.003000,
+        lng: -56.003000
+    },
+
+
+   {
+        nombre: "Vasa",
         lat: -34.003000,
         lng: -56.003000
     },
