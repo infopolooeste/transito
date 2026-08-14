@@ -7,100 +7,108 @@ const destinos = [
 
     {
         nombre: "Emergent",
-        lat: -34.000000,
-        lng: -56.000000
+        lat: -34.858899,
+        lng: -56.287255
     },
 
 
     {
         nombre: "Conaprole",
-        lat: -34.001000,
-        lng: -56.001000
+        lat: -34.858117,
+        lng: -56.283586
     },
 
 
     {
         nombre: "Integra",
-        lat: -34.002000,
-        lng: -56.002000
+        lat: -34.857873,
+        lng: -56.286887
     },
 
 
     {
         nombre: "Sodimac",
-        lat: -34.003000,
-        lng: -56.003000
+        lat: -34.858092,
+        lng: -56.287525
     },
 
 
    {
         nombre: "Vasa",
-        lat: -34.003000,
-        lng: -56.003000
+        lat: -34.857427,
+        lng: -56.287695
     },
 
 
     {
         nombre: "Centro de verificación",
-        lat: -34.004000,
-        lng: -56.004000
+        lat: -34.857251,
+        lng: -56.287515
     },
 
 
     {
         nombre: "Mezzanine",
-        lat: -34.005000,
-        lng: -56.005000
+        lat: -34.857740,
+        lng: -56.286932
     },
 
 
     {
         nombre: "Integra 2",
-        lat: -34.006000,
-        lng: -56.006000
+        lat: -34.857126,
+        lng: -56.287545
     },
 
 
     {
         nombre: "Oficinas Polo Oeste",
-        lat: -34.007000,
-        lng: -56.007000
+        lat: -34.856989,
+        lng: -56.286952
     },
 
 
     {
         nombre: "Unilever",
-        lat: -34.008000,
-        lng: -56.008000
+        lat: -34.856472,
+        lng: -56.287021
     },
 
 
     {
         nombre: "Mondelez",
-        lat: -34.009000,
-        lng: -56.009000
+        lat: -34.855712,
+        lng: -56.287853
     },
 
 
     {
         nombre: "H&M",
-        lat: -34.010000,
-        lng: -56.010000
+        lat: -34.854919,
+        lng: -56.287939
     },
 
 
     {
         nombre: "Pepsico",
-        lat: -34.011000,
-        lng: -56.011000
+        lat: -34.854605,
+        lng: -56.284154
     },
 
 
     {
         nombre: "Vehículos",
-        lat: -34.012000,
-        lng: -56.012000
-    }
+        lat: -34.854231,
+        lng: -56.287658
+    },
+
+
+   {
+        nombre: "Control de acceso",
+        lat: -34.858853,
+        lng: -56.288733
+    },
+
 
 ];
 
