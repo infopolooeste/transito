@@ -104,7 +104,7 @@ const destinos = [
 
 
    {
-        nombre: "Control de acceso",
+        nombre: "Control de accesoooooo",
         lat: -34.858853,
         lng: -56.288733
     },
