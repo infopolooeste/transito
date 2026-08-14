@@ -3,18 +3,6 @@
 ===================================================== */
 
 
-/*
-    Coordenadas de los destinos.
-
-    IMPORTANTE:
-    Las coordenadas que figuran aquí son
-    provisionales.
-
-    Luego podemos colocar las coordenadas
-    reales de cada sector de Polo Oeste.
-*/
-
-
 const destinos = [
 
     {
@@ -134,33 +122,17 @@ const contenedor =
 destinos.forEach(function(destino) {
 
 
-    /*
-        Crear botón
-    */
-
     const boton =
         document.createElement("button");
 
-
-    /*
-        Clase visual
-    */
 
     boton.className =
         "destino-button";
 
 
-    /*
-        Nombre del destino
-    */
-
     boton.textContent =
         destino.nombre;
 
-
-    /*
-        Acción al tocar
-    */
 
     boton.addEventListener(
         "click",
@@ -171,10 +143,6 @@ destinos.forEach(function(destino) {
         }
     );
 
-
-    /*
-        Agregar al HTML
-    */
 
     contenedor.appendChild(boton);
 
@@ -189,16 +157,6 @@ destinos.forEach(function(destino) {
 function irADestino(destino) {
 
 
-    /*
-        Google Maps recibe únicamente
-        el destino.
-
-        Al no indicar un origen,
-        Google Maps utiliza la ubicación
-        actual del teléfono.
-    */
-
-
     const url =
         "https://www.google.com/maps/dir/?api=1" +
         "&destination=" +
@@ -208,10 +166,6 @@ function irADestino(destino) {
             destino.lng
         );
 
-
-    /*
-        Abrir Google Maps
-    */
 
     window.location.href =
         url;
