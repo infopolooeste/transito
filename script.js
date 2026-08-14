@@ -21,8 +21,8 @@ const destinos = [
 
    {
         nombre: "Dairyco",
-        lat: -34.860585,
-        lng: -56.283578
+        lat: -34.860288,
+        lng: -56.283672
     },
 
 
