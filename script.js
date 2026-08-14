@@ -98,8 +98,8 @@ const destinos = [
 
     {
         nombre: "Pepsico",
-        lat: -34.854939,
-        lng: -56.283631
+        lat: -34.854657,
+        lng: -56.285504
     },
 
 
